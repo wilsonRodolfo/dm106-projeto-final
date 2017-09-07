@@ -31,5 +31,7 @@ namespace wrsProjetoFinalDM106.Models
         }
 
         public System.Data.Entity.DbSet<wrsProjetoFinalDM106.Models.Product> Products { get; set; }
+
+        public System.Data.Entity.DbSet<wrsProjetoFinalDM106.Models.Order> Orders { get; set; }
     }
 }
