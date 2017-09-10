@@ -19,7 +19,7 @@ using wrsProjetoFinalDM106.Results;
 
 namespace wrsProjetoFinalDM106.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
     {
@@ -316,7 +316,7 @@ namespace wrsProjetoFinalDM106.Controllers
         }
 
         // POST api/Account/Register
-        //[Authorize(Roles = "ADMIN")]
+        [Authorize(Roles = "ADMIN")]
         [AllowAnonymous]
         [Route("Register")]
         public async Task<IHttpActionResult> Register(RegisterBindingModel model)

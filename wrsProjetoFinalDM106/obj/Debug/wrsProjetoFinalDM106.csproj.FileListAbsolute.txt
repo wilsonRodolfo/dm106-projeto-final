@@ -125,7 +125,6 @@ D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProje
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.Migrations.InitialCreate.resources
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.csproj.GenerateResource.Cache
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.Migrations.AddTableProduct.resources
-D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.csprojResolveAssemblyReference.cache
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.Migrations.AddOrderAndOrderItem.resources
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.Migrations.AddAllAttributes.resources
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Debug\wrsProjetoFinalDM106.Migrations.AddGetAndSetInAllAttributes.resources

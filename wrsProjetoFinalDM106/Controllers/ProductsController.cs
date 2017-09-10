@@ -5,7 +5,6 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Description;
 using wrsProjetoFinalDM106.Models;
@@ -55,7 +54,7 @@ namespace wrsProjetoFinalDM106.Controllers
 
             if(productList != null && productList.Count > 0)
             {
-                throw new HttpResponseException(HttpStatusCode.Forbidden);
+                return StatusCode(HttpStatusCode.Forbidden);
             }
 
             db.Entry(product).State = EntityState.Modified;
@@ -76,7 +75,7 @@ namespace wrsProjetoFinalDM106.Controllers
                 }
             }
 
-            return StatusCode(HttpStatusCode.NoContent);
+            return StatusCode(HttpStatusCode.OK);
         }
 
         // POST: api/Products

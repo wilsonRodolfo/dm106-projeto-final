@@ -126,3 +126,8 @@ D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProje
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.csproj.GenerateResource.Cache
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.dll
 D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.pdb
+D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\bin\wrsProjetoFinalDM106.XmlSerializers.dll
+D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.Migrations.AddOrderAndOrderItem.resources
+D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.Migrations.AddAllAttributes.resources
+D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.Migrations.AddGetAndSetInAllAttributes.resources
+D:\Pos-Graduacao\DM106 - Web Services com seguranca sob plataforma .NET\wrsProjetoFinalDM106\wrsProjetoFinalDM106\obj\Release\wrsProjetoFinalDM106.XmlSerializers.dll
